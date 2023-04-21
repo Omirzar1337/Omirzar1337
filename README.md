@@ -9,7 +9,7 @@ I'm a software developer who loves to play around with code! Whether it's C++, P
 
 I'm working on [Geiger-Müller Sensor](https://github.com/4Xsample/Idees-per-Arduino/tree/main/Geiger%20Web%20Esp32-C3)
 
-Check the repo or ask me if you want no know more (Or if you know no catalan)
+Check the repo or reach me if you want to know more about the project (Or if you understand nothing)
 
 
 ## 🤖 Let's build something cool together!
