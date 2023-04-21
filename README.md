@@ -7,7 +7,7 @@ I'm a software developer who loves to play around with code! Whether it's C++, P
 
 # What I'm doing right now
 
-I'm working on [Geiger-Mûller Sensor](https://github.com/4Xsample/Idees-per-Arduino/tree/main/Geiger%20Web%20Esp32-C3)
+I'm working on [Geiger-Müller Sensor](https://github.com/4Xsample/Idees-per-Arduino/tree/main/Geiger%20Web%20Esp32-C3)
 
 Check the repo or ask me if you want no know more (Or if you know no catalan)
 
