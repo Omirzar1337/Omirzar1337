@@ -5,7 +5,7 @@
 I'm a software developer who loves to play around with code! Whether it's C++, Python, Lua, Java, HTML, CSS, JS, or AJAX, as well as observing human vulnerabilities. I'm always excited to learn new things and work on new projects. 
 
 
-# What I'm doing right now
+## What I'm doing right now
 
 I'm working on [Geiger-Müller Sensor](https://github.com/4Xsample/Idees-per-Arduino/tree/main/Geiger%20Web%20Esp32-C3)
 
