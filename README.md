@@ -1,4 +1,4 @@
-# Hey there, I'm Omirzar, the cowboy-programmer! 
+# Hey there, I'm <img src = "https://www.discordl.org/avatars/7/771499295295668275/91647f5895cba8c286759d147c223771.png">Omirzar<img src = "https://www.discordl.org/avatars/7/771499295295668275/91647f5895cba8c286759d147c223771.png">, the cowboy-programmer! 
 <img src = "https://thumbs.gfycat.com/DefensiveChubbyIchthyostega-max-1mb.gif">
 
 
@@ -7,10 +7,13 @@ I'm a software developer who loves to play around with code! Whether it's C++, P
 
 ## What I'm doing right now
 
-I'm working on [Geiger-Müller Sensor](https://github.com/4Xsample/Idees-per-Arduino/tree/main/Geiger%20Web%20Esp32-C3)
+I'm working on [Geiger-Müller Sensor](https://github.com/4Xsample/Idees-per-Arduino/tree/main/Geiger%20Web%20Esp32-C3) ☢️
 
 Check the repo or reach me if you want to know more about the project (Or if you understand nothing)
 
+## What do I play
+
+###Valorant
 
 ## 🤖 Let's build something cool together!
 
