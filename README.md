@@ -1,4 +1,4 @@
-# Hey there, I'm <img src = "https://www.discordl.org/avatars/7/771499295295668275/91647f5895cba8c286759d147c223771.png">Omirzar<img src = "https://www.discordl.org/avatars/7/771499295295668275/91647f5895cba8c286759d147c223771.png">, the cowboy-programmer! 
+# Hey there, I'm Omirzar, the cowboy-programmer! 
 <img src = "https://thumbs.gfycat.com/DefensiveChubbyIchthyostega-max-1mb.gif">
 
 
