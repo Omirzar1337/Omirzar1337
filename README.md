@@ -13,7 +13,7 @@ Check the repo or reach me if you want to know more about the project (Or if you
 
 ## What do I play
 
-###Valorant
+Right now I'm mainly playing Valorant, Trackmania 2020 and TOTK
 
 ## 🤖 Let's build something cool together!
 
