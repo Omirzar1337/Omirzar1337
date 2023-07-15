@@ -10,8 +10,6 @@ I'm a software developer who loves to play around with code! Whether it's C++, P
 I'm working on:
 - [Geiger-Müller Sensor](https://github.com/4Xsample/Idees-per-Arduino/tree/main/Geiger%20Web%20Esp32-C3) ☢️
 
-- [CatFreaks-ircChat](https://github.com/Omirzar1337/CatFreaks-ircChat/tree/main) 📡
-
 Check the repos or reach me if you want to know more about the projects (Or if you understand nothing)
 
 ## What do I play
