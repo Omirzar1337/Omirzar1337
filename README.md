@@ -2,7 +2,9 @@
 <img src = "https://www.icegif.com/wp-content/uploads/2022/03/icegif-67.gif">
 
 
-I'm a software developer who loves to play around with code! Whether it's C++, Python, Lua, Java, HTML, CSS, JS... as well as observing human vulnerabilities. I'm always excited to learn new things and work on new projects. 
+I'm a software developer who loves to play around with code! Whether it's C++, Python, Lua, Java, HTML, CSS, JS... as well as observing human vulnerabilities. I'm always excited to learn new things and work on new projects.
+
+[![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/Omirzar1337)](https://git.io/awesome-stats-card)
 
 
 ## What I'm doing right now
