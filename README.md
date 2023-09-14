@@ -4,7 +4,8 @@
 
 I'm a software developer who loves to play around with code! Whether it's C++, Python, Lua, Java, HTML, CSS, JS... as well as observing human vulnerabilities. I'm always excited to learn new things and work on new projects.
 
-[![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/Omirzar1337)](https://git.io/awesome-stats-card)
+[![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/Omirzar1337?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 
 ## What I'm doing right now
