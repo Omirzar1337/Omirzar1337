@@ -1,6 +1,4 @@
-# Hey there, I'm Omirzar! 
-<img src = "https://www.icegif.com/wp-content/uploads/2022/03/icegif-67.gif">
-
+# Hey there, I'm Omirzar!
 
 I'm a software developer who loves to play around with code! Whether it's C++, Python, Lua, Java, HTML, CSS, JS... as well as observing human vulnerabilities. I'm always excited to learn new things and work on new projects.
 
