@@ -1,8 +1,9 @@
 # Hey there, I'm Omirzar!
 
-I'm a software developer who loves to play around with code! Whether it's C++, Python, Lua, Java, HTML, CSS, JS... as well as observing human vulnerabilities. I'm always excited to learn new things and work on new projects.
+I'm a software developer who loves to play around with code! Whether it's PHP, Python, Lua, Java, HTML, CSS, JS... as well as observing human vulnerabilities. I'm always excited to learn new things and work on new projects.
 
 [![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/Omirzar1337?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 
 
@@ -12,6 +13,10 @@ I'm working on:
 - [Geiger-Müller Sensor](https://github.com/4Xsample/Idees-per-Arduino/tree/main/Geiger%20Web%20Esp32-C3) ☢️
 
 Check the repos or reach me if you want to know more about the projects (Or if you understand nothing)
+
+## What I'm learning
+
+Right now I'm learning some React!
 
 ## What do I play
 
