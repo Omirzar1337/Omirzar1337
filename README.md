@@ -20,7 +20,7 @@ Right now I'm learning some React!
 
 ## What do I play
 
-Right now I'm mainly playing Valorant, Trackmania 2020 and TOTK
+Right now I'm mainly playing Sea of Thieves and Trackmania 2020 
 
 ## 🤖 Let's build something cool together!
 
