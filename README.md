@@ -1,6 +1,6 @@
 # Hey there, I'm Omirzar!
 
-I'm a software developer who loves to play around with code! Whether it's PHP, Python, Lua, Java, HTML, CSS, JS... as well as observing human vulnerabilities. I'm always excited to learn new things and work on new projects.
+I'm a software developer used to work with Laravel and Next.js. I'm always excited to learn new things and work on new projects.
 
 [![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/Omirzar1337?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
@@ -11,16 +11,17 @@ I'm a software developer who loves to play around with code! Whether it's PHP, P
 
 I'm working on:
 - [Geiger-Müller Sensor](https://github.com/4Xsample/Idees-per-Arduino/tree/main/Geiger%20Web%20Esp32-C3) ☢️
+- I'm also working as a Jr Web Dev with Next.js
 
-Check the repos or reach me if you want to know more about the projects (Or if you understand nothing)
+Check the repos or reach me if you want to know more about the projects
 
 ## What I'm learning
 
-Right now I'm learning some React!
+Right now I'm learning some TS, React and NExt.js!
 
 ## What do I play
 
-Right now I'm mainly playing Sea of Thieves and Trackmania 2020 
+Right now I'm mainly playing STardew Valley, GTAV RP and Trackmania 2020 
 
 ## 🤖 Let's build something cool together!
 
