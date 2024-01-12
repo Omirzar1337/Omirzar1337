@@ -30,4 +30,4 @@ I'm always open to collaborating on new projects and exploring new technologies.
 
 ## 🌟 Let's connect!
 
-Don't hesitate to say hi! You can reach me on [Twitter](https://twitter.com/Omirzar1337) or visit my [Linktree](https://linktr.ee/hornystar) to learn more about me and my projects.
+Don't hesitate to say hi! You can reach me on [Twitter](https://twitter.com/0m1rz4r) or visit my [Linktree](https://linktr.ee/hornystar) to learn more about me and my projects.
