@@ -17,15 +17,15 @@ Check the repos or reach me if you want to know more about the projects
 
 ## What I'm learning
 
-Right now I'm learning some TS, React and NExt.js!
+Right now I'm learning some TS, React, Next.js and Laravel!
 
 ## What do I play
 
-Right now I'm mainly playing STardew Valley, GTAV RP and Trackmania 2020 
+Right now I'm mainly playing Stardew Valley, GTAV RP and Trackmania 2020 
 
 ## 🤖 Let's build something cool together!
 
-I'm always open to collaborating on new projects and exploring new technologies. If you have a project in mind or just want to chat, feel free to reach out to me on [Twitter](https://twitter.com/Omirzar1337) or visit my [Linktree](https://linktr.ee/hornystar).
+I'm always open to collaborating on new projects and exploring new technologies. If you have a project in mind or just want to chat, feel free to reach out to me on [Twitter](https://twitter.com/0m1rz4r) or visit my [Linktree](https://linktr.ee/hornystar).
 
 
 ## 🌟 Let's connect!
