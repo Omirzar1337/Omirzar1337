@@ -22,7 +22,7 @@ Right now I'm learning some TS, React, Next.js and Laravel!
 
 ## What do I play
 
-Right now I'm mainly playing Stardew Valley, Satisfactory and Trackmania 2020 
+Nowadays I'm mainly playing Sea of Thieves, War Thunder and Trackmania 2020 
 
 ## 🤖 Let's build something cool together!
 
