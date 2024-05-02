@@ -1,34 +1,41 @@
-# Hey there, I'm Omirzar!
+# Hola a tothom 👋!
 
-I'm a software developer used to work with Laravel and Next.js. I'm always excited to learn new things and work on new projects.
+Em dic 0m1rz4r i tinc 20 anys. Sóc un apassionat del món de la programació web i de l'administració de sistemes. Des de ben jove, he estat immers en el fascinant món de la tecnologia, i m'agrada descriure'm com un homelabber, sempre investigant i experimentant amb les últimes novetats en serveis, ciberseguretat i sistemes.
 
-[![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/Omirzar1337?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+La meva passió per la programació web m'ha portat a aprendre diversos llenguatges de programació i a desenvolupar projectes innovadors. M'agrada treballar en equips dinàmics i col·laborar en projectes que desafien els límits de la tecnologia.
 
+A més, l'administració de sistemes és un altre dels meus grans interessos. M'encanta entendre com funcionen els sistemes informàtics, des de la configuració inicial fins a l'optimització i el manteniment continu. Sempre estic cercant maneres de millorar l'eficiència dels sistemes i d'implementar les millors pràctiques de seguretat per protegir la informació sensible.
 
-
-
-## What I'm doing right now
-
-I'm working on:
-- [Geiger-Müller Sensor](https://github.com/4Xsample/Idees-per-Arduino/tree/main/Geiger%20Web%20Esp32-C3) ☢️
-- [LagerLedger](https://github.com/Omirzar1337/lagerLedger) 🍺
-- I'm also working as a Jr Web Dev with Next.js
-
-Check the repos or reach me if you want to know more about the projects
-
-## What I'm learning
-
-Right now I'm learning some TS, React, Next.js and Laravel!
-
-## What do I play
-
-Nowadays I'm mainly playing Sea of Thieves, War Thunder and Trackmania 2020 
-
-## 🤖 Let's build something cool together!
-
-I'm always open to collaborating on new projects and exploring new technologies. If you have a project in mind or just want to chat, feel free to reach out to me on [Twitter](https://twitter.com/0m1rz4r) or visit my [Linktree](https://linktr.ee/hornystar).
+Estic emocionat per formar part d'aquesta comunitat i per compartir coneixements i experiències amb altres professionals apassionats per la tecnologia. Espero poder aprendre i créixer en aquest emocionant viatge cap al futur de la tecnologia.
 
 
-## 🌟 Let's connect!
+# Que pots trobar aquí 🔍!
 
-Don't hesitate to say hi! You can reach me on [Twitter](https://twitter.com/0m1rz4r) or visit my [Linktree](https://linktr.ee/hornystar) to learn more about me and my projects.
+Al meu GitHub, trobaràs una col·lecció de les "frikades" que formen part del meu dia a dia com a desenvolupador. Des dels petits experiments que porto a terme per aprendre coses noves fins a les solucions creatives que implemento per superar els reptes del meu entorn tecnològic.
+
+Podràs explorar els meus projectes, des dels més simples als més complexos, tots ells carregats d'una passió per la tecnologia i la innovació. No només descobriràs el codi que hi ha darrere de cada projecte, sinó també els processos de pensament i les decisions preses durant el desenvolupament.
+
+Des de la integració de noves tecnologies fins a les solucions pràctiques per a problemes quotidians, el meu GitHub és una finestra al meu món de la tecnologia, on comparteixo amb entusiasme les meves exploracions i descobriments.
+
+Siguis un desenvolupador novell o un expert en la matèria, espero que trobis inspiració i diversió explorant el meu GitHub i descobrint les "frikades" que formen part del meu viatge tecnològic diari.
+
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/Omirzar1337?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
+## Que estic fent ara mateix 🕒
+
+En l'àmbit de la programació web ara mateix estic treballant amb Next.js, Laravel, TS, JS...
+
+Pel que fa a sistemes, ara mateix estic ampliant el meu homblab i alhora revisant nous serveis i sistemes
+
+
+## A que juga l'0m1r ⌨
+
+Ara mateix principalment jugo a Sea of Thieves, Minecraft i Trackmania2020 
+
+
+🤖 Construïm alguna cosa xula junts!
+Sempre estic obert a col·laborar en nous projectes i explorar noves tecnologies. Si tens un projecte en ment o simplement vols xerrar, no dubtis en posar-te en contacte amb mi a través de [Twitter](https://twitter.com/0m1rz4r) o visitar el meu [Linktree](https://linktr.ee/hornystar).
+
+🌟 Connectem-nos!
+No dubtis a saludar! Pots contactar amb mi a través de [Twitter](https://twitter.com/0m1rz4r) o visitar el meu [Linktree](https://linktr.ee/hornystar) per conèixer més sobre mi i els meus projectes.
