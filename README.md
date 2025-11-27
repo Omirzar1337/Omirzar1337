@@ -11,7 +11,7 @@
   </a>
 </div>
 
+## About Me
 
-- @0m1rz4r 
-- SysAdmin and CyberSecurity
-- Working on CornerSpace
+- `21` year old thingy
+- 💻 I’m currently learning `C#` and working on [CornerSpace](https://github.com/Omirzar1337/CornerSpace)
